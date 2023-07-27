@@ -1,0 +1,19 @@
+{
+  "name": "cmd2array",
+  "version": "1.0.0",
+  "description": "read slash cmd.json to array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/c3po-modules/cmd2array.git"
+  },
+  "author": "scuba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/c3po-modules/cmd2array/issues"
+  },
+  "homepage": "https://gitlab.com/c3po-modules/cmd2array#readme"
+}
